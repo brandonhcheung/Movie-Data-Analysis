@@ -7,8 +7,8 @@ The goal of this project was to demonstrate proficiency in data curation and ana
 - https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
 
 **License**
-MIT License
 
+MIT License
 Copyright (c) 2023 brandonhcheung
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
