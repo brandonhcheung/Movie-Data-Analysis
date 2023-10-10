@@ -37,4 +37,4 @@ SOFTWARE.
 
 **Known/Potential Issues**
 - Timing bias could have played a role, as movies that were released before others had more time to generate more money.
-- All of the movies from the dataset were released in the USA, 
+- All of the movies from the dataset were released in the USA, ignoring movies that were released in other countries that could have made more money than some movies on the list.
