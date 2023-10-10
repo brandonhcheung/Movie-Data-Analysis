@@ -38,3 +38,6 @@ SOFTWARE.
 **Known/Potential Issues**
 - Timing bias could have played a role, as movies that were released before others had more time to generate more money.
 - All of the movies from the dataset were released in the USA, ignoring movies that were released in other countries that could have made more money than some movies on the list.
+
+**Analysis**
+The top 200 movies with the highest gross income was analyzed and visualized through descriptive statistics and plots. The bar graph uses the data to show the highest grossing movie of their year in order to determine whether or time plays a significant role in gross income for movies. We can see that there is a very small increase in the gross income of the most popular film of the year as time progresses. 
