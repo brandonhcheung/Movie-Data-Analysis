@@ -30,10 +30,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 **Attributes**
-- Rank: Ranks the top 200 movies by gross income
-- Title: Title of the movie
-- Year: Year the movie was released
-- Lifetime Gross: Lifetime gross income generated
+- Rank(int): Ranks the top 200 movies by gross income
+- Title(str): Title of the movie
+- Year(int): Year the movie was released
+- Lifetime Gross(int): Lifetime gross income generated
 
 **Known/Potential Issues**
 - Timing bias could have played a role, as movies that were released before others had more time to generate more money.
