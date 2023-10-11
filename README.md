@@ -1,5 +1,5 @@
 # Movie-Data-Analysis
-The goal of this project was to demonstrate proficiency in data curation and analysis. The top 200 movies by lifetime gross was extracted, analyzed, and visualized using APIs.
+The goal of this project was to demonstrate proficiency in data curation and analysis. The top 200 movies by lifetime gross was extracte and analyzed using APIs. The data was then used to determine if time has an impact on gross income for sucessful movies through the visualization of the movie with the greatest lifetime gross income during their year.
 
 **Relevant API Documentation**
 - https://www.geeksforgeeks.org/python-web-scraping-tutorial/
