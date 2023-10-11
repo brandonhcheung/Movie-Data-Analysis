@@ -1,4 +1,4 @@
-# Coding-Assignment-1---I310D
+# Movie-Data-Analysis
 The goal of this project was to demonstrate proficiency in data curation and analysis. The top 200 movies by lifetime gross was extracted, analyzed, and visualized using APIs.
 
 **Relevant API Documentation**
